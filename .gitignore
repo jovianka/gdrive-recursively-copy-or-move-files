@@ -1,0 +1,7 @@
+results
+.vscode
+client_secrets.json
+credentials.json
+pyrightconfig.json
+*.env
+.venv
