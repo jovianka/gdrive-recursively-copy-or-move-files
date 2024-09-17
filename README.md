@@ -1,4 +1,4 @@
-# Build
+# Installation
 1. Clone the repo
    ```sh
    git clone https://github.com/jovianka/gdrive-recursively-copy-or-move-files.git && cd gdrive-recursively-copy-or-move-files
