@@ -1,3 +1,7 @@
+# Pre-requisites
+- git
+- python
+
 # Installation
 1. Clone the repo
    ```sh
