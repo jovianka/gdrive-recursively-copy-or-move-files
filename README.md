@@ -40,6 +40,7 @@ Linux/MacOS:
    - DESTINATION_FOLDER_ID
    - EMAIL_ADDRESS -> Email that own/will own the files being moved/copied 
 3. Run `python main.py`
+4. View the output in the `results` directory
 
 
 
