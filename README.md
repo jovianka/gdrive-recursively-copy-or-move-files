@@ -42,7 +42,7 @@ Linux/MacOS:
 2. Setup environment variables
    - SOURCE_FOLDER_ID -> The **content** of this folder will be moved/copied to DESTINATION_FOLDER_ID
    - DESTINATION_FOLDER_ID
-   - EMAIL_ADDRESS -> Email that own/will own the files being moved/copied 
+   - EMAIL_ADDRESS -> Email that owns/will own the files being moved/copied 
 3. Run `python main.py`
 4. View the output in the `results` directory
 
