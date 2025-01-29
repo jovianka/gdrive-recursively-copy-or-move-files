@@ -52,7 +52,7 @@ Linux/MacOS:
 - The [revisions](https://developers.google.com/drive/api/guides/change-overview) of copied files will not be copied.
 - Copied files will be left untouched, but moved files (which are owned by EMAIL_ADDRESS) will only be present in the directory owned by EMAIL_ADDRESS after the script completes.
 - You can get a folder's ID from the folder's link e.g. https://drive.google.com/drive/folders/id
-- Copied files will be checked for duplicates.
+- Copied files will be checked for duplicates by file name.
 - API requests will be sent asynchronously using [asyncio](https://docs.python.org/3/library/asyncio.html)
 - **Might not work** for files in [shared drives](https://support.google.com/a/users/answer/7212025?hl=en)
 
